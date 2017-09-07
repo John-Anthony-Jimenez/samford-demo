@@ -1,0 +1,19 @@
+{
+  "name": "samford-demo",
+  "version": "1.0.0",
+  "description": "Cool demo of NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Anthony-Jimenez/samford-demo.git"
+  },
+  "author": "John-Anthony Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-Anthony-Jimenez/samford-demo/issues"
+  },
+  "homepage": "https://github.com/John-Anthony-Jimenez/samford-demo#readme"
+}
